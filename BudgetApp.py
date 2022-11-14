@@ -10,9 +10,9 @@ import plotly.graph_objects as go
 import numpy as np
 
 st.set_page_config(
-    page_title="Financial Planning Calculator")
+    page_title="Previsão de Salário TI no CAGED 2022 ")
 
-st.title("Financial Planning Calculator")
+st.title("Previsão de Salário TI no CAGED 2022")
 
 st.header("**Monthly Income**")
 st.subheader("Salary")
